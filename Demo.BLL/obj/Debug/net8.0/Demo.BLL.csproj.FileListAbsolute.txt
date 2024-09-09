@@ -1,0 +1,15 @@
+E:\Repos\Projects\Bloggie\Demo.BLL\bin\Debug\net8.0\Demo.BLL.deps.json
+E:\Repos\Projects\Bloggie\Demo.BLL\bin\Debug\net8.0\Demo.BLL.dll
+E:\Repos\Projects\Bloggie\Demo.BLL\bin\Debug\net8.0\Demo.BLL.pdb
+E:\Repos\Projects\Bloggie\Demo.BLL\bin\Debug\net8.0\Demo.DAL.dll
+E:\Repos\Projects\Bloggie\Demo.BLL\bin\Debug\net8.0\Demo.DAL.pdb
+E:\Repos\Projects\Bloggie\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Repos\Projects\Bloggie\Demo.BLL\obj\Debug\net8.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\Bloggie\Demo.BLL\obj\Debug\net8.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Repos\Projects\Bloggie\Demo.BLL\obj\Debug\net8.0\Demo.BLL.AssemblyInfo.cs
+E:\Repos\Projects\Bloggie\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\Bloggie\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.Up2Date
+E:\Repos\Projects\Bloggie\Demo.BLL\obj\Debug\net8.0\Demo.BLL.dll
+E:\Repos\Projects\Bloggie\Demo.BLL\obj\Debug\net8.0\refint\Demo.BLL.dll
+E:\Repos\Projects\Bloggie\Demo.BLL\obj\Debug\net8.0\Demo.BLL.pdb
+E:\Repos\Projects\Bloggie\Demo.BLL\obj\Debug\net8.0\ref\Demo.BLL.dll

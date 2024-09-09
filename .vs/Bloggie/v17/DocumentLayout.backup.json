@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Repos\\Projects\\Bloggie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|e:\\repos\\projects\\bloggie\\demo.pl\\views\\admintags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\admintags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|e:\\repos\\projects\\bloggie\\demo.pl\\controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BC23EB-3C79-4524-8285-EC5E211EB510}|Demo.BLL\\Demo.BLL.csproj|e:\\repos\\projects\\bloggie\\demo.bll\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BC23EB-3C79-4524-8285-EC5E211EB510}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BC23EB-3C79-4524-8285-EC5E211EB510}|Demo.BLL\\Demo.BLL.csproj|e:\\repos\\projects\\bloggie\\demo.bll\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BC23EB-3C79-4524-8285-EC5E211EB510}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|e:\\repos\\projects\\bloggie\\demo.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|e:\\repos\\projects\\bloggie\\demo.pl\\views\\admintags\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\admintags\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|e:\\repos\\projects\\bloggie\\demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|e:\\repos\\projects\\bloggie\\demo.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|e:\\repos\\projects\\bloggie\\demo.pl\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|e:\\repos\\projects\\bloggie\\demo.pl\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|e:\\repos\\projects\\bloggie\\demo.pl\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|e:\\repos\\projects\\bloggie\\demo.pl\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|e:\\repos\\projects\\bloggie\\demo.pl\\viewmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\viewmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA142A6-DD06-47DD-BBCB-5F3560B91783}|Demo.DAL\\Demo.DAL.csproj|e:\\repos\\projects\\bloggie\\demo.dal\\contexts\\authappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA142A6-DD06-47DD-BBCB-5F3560B91783}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\contexts\\authappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|e:\\repos\\projects\\bloggie\\demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BC23EB-3C79-4524-8285-EC5E211EB510}|Demo.BLL\\Demo.BLL.csproj|e:\\repos\\projects\\bloggie\\demo.bll\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BC23EB-3C79-4524-8285-EC5E211EB510}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|e:\\repos\\projects\\bloggie\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE89D7A0-EED2-4449-89D5-EFF2B361AECC}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BC23EB-3C79-4524-8285-EC5E211EB510}|Demo.BLL\\Demo.BLL.csproj|e:\\repos\\projects\\bloggie\\demo.bll\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BC23EB-3C79-4524-8285-EC5E211EB510}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 994,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.BLL\\Interfaces\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Interfaces\\ITagRepository.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.BLL\\Interfaces\\ITagRepository.cs",
+              "RelativeToolTip": "Demo.BLL\\Interfaces\\ITagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:15:04.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminTagsController.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Controllers\\AdminTagsController.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\Controllers\\AdminTagsController.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Controllers\\AdminTagsController.cs",
+              "RelativeToolTip": "Demo.Pl\\Controllers\\AdminTagsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwDwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:10:08.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.BLL\\Repositories\\TagRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Repositories\\TagRepository.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.BLL\\Repositories\\TagRepository.cs",
+              "RelativeToolTip": "Demo.BLL\\Repositories\\TagRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:16:02.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Views\\AdminTags\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\AdminTags\\Index.cshtml",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Views\\AdminTags\\Index.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\AdminTags\\Index.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAmwGAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T21:28:46.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Demo.Pl\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T22:31:54.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T22:42:58.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Demo.Pl\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:49:26.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T23:33:17.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Views\\AdminTags\\Add.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\AdminTags\\Add.cshtml",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Views\\AdminTags\\Add.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\AdminTags\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T20:23:53.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\ViewModels\\User.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\ViewModels\\User.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\ViewModels\\User.cs",
+              "RelativeToolTip": "Demo.Pl\\ViewModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:47:46.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Views\\AdminUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\AdminUsers\\Index.cshtml",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Views\\AdminUsers\\Index.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\AdminUsers\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T20:22:46.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Controllers\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\Controllers\\AdminUsersController.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Controllers\\AdminUsersController.cs",
+              "RelativeToolTip": "Demo.Pl\\Controllers\\AdminUsersController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwEwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:37:15.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "Demo.Pl\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:40:19.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T21:30:08.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthAppDbContext.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.DAL\\Contexts\\AuthAppDbContext.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Contexts\\AuthAppDbContext.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.DAL\\Contexts\\AuthAppDbContext.cs",
+              "RelativeToolTip": "Demo.DAL\\Contexts\\AuthAppDbContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:34:39.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\Program.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.Pl\\Program.cs",
+              "RelativeToolTip": "Demo.Pl\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:28:28.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.BLL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.BLL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Demo.BLL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:23:52.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Bloggie\\Demo.BLL\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Bloggie\\Demo.BLL\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Demo.BLL\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:23:08.504Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 459,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

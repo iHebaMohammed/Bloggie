@@ -1,0 +1,68 @@
+﻿@model List<BlogPost>
+@{
+}
+<div class="bg-secondary bg-opacity-10 py-2">
+    <div class="container">
+        <h1>Show All BlogPosts - Admin Fuctionality</h1>
+    </div>
+</div>
+
+<div class="container py-5">
+    @if(Model != null && Model.Any())
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <td>Id</td>
+                    <td>Heading</td>
+                    <td>Tags</td>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Heading</td>
+                        <td>
+                            <div class="d-flex">
+                                @foreach (var tag in item.Tags)
+                                {
+                                    <span class="badge bg-secondary me-1">@tag.Name</span>
+                                }
+                            </div>
+                        </td>
+                        <td>
+                            <a class="btn btn-success"
+                               asp-action="Details"
+                               asp-route-id="@item.Id">
+                                Details
+                            </a>
+                        </td>
+                        <td>
+                            <a class="btn btn-warning"
+                               asp-action="Edit"
+                               asp-route-id="@item.Id">
+                                Update
+                            </a>
+                        </td>
+                        <td>
+                            <a class="btn btn-danger"
+                               asp-action="Delete"
+                               asp-route-id="@item.Id">
+                               Delete
+                           </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No blog posts found!</p>
+    }
+</div>

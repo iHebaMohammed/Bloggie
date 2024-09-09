@@ -1,0 +1,41 @@
+﻿@model EditTagViewModel
+@{
+}
+
+<div class="bg-secondary bg-opacity-10 py-2">
+    <div class="container">
+        <h1>Edit Tag - Admin Fuctionality</h1>
+    </div>
+</div>
+
+@if (Model != null)
+{
+    <div class="container py-5">
+        <form method="post" asp-action="Edit">
+            <div class="mb-3">
+                <label class="form-label" asp-for="Id"></label>
+                <input class="form-control" asp-for="Id" readonly />
+            </div>
+            <div class="mb-3">
+                <label class="form-label" asp-for="Name"></label>
+                <input class="form-control" asp-for="Name" />
+            </div>
+            <div class="mb-3">
+                <label class="" asp-for="DisplayName"></label>
+                <input class="form-control" asp-for="DisplayName" />
+            </div>
+            <div class="mb-3">
+                <div class="d-flex">
+                    <button type="submit" class="btn btn-dark">Update</button>
+                    <a asp-action="Index" class="btn btn-outline-success ms-3">Back</a>
+
+                </div>
+
+            </div>
+        </form>
+    </div>
+}
+else
+{
+    <p>Tag not found!</p>
+}
