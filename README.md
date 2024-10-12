@@ -109,9 +109,3 @@ Contributions are welcome! Please follow the standard GitHub workflow:
 2. Create a new branch (`feature/your-feature`).
 3. Commit your changes.
 4. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
